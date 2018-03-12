@@ -1,0 +1,13 @@
+{
+  "name": "cog-roots-sage",
+  "version": "0.0.1",
+  "description": "Cog module for Roots Sage",
+  "global": "false",
+  "files": [
+    "cog-roots-sage.sh",
+    "sample.config"
+  ],
+  "dependencies": [
+    "gearbox-built/cog-wp"
+  ]
+}
